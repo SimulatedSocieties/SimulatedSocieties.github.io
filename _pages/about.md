@@ -51,9 +51,8 @@ Social scientists and cognitive researchers can better explore online behavior, 
 3. Present Hybrid Data-Driven/Modeling Case Studies
 
 ##### Important Dates
-<b>Paper submission:</b>  July 1st, 2025<br/>
-<b>Author notification:</b> July 10th, 2025 <br/>
-<b>Camera-Ready:</b> July 18th, 2025 <br/>
+<b>Paper submission:</b> TBD <br/>
+<b>Author notification:</b> TBD <br/>
 
 ---
 
