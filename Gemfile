@@ -22,4 +22,3 @@ group :other_plugins do
     gem 'feedjira'
 end
 
-gem "github-pages", group: :jekyll_plugins
