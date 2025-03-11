@@ -6,7 +6,7 @@ subtitle: <b>From Opinion Dynamic Models to Digital Twins - 1st Edition (2025)</
 
 profile:
   align: right
-  image: prof_pic.png
+  image: simulatedsocietieslogo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Simulated Societies Satellite</p>
@@ -30,7 +30,7 @@ The Simulating Societies satellites addresses this gap by providing the CCS comm
 
 ##### Topics of interest
 
-<b> Agent Base Modeling</b> <br/>
+<b> Agent Based Modeling</b> <br/>
 <b> Opinion Dynamics </b> <br/>
 <b> Social Digital Twins </b>  <br/>
 <b> AI impact on social simulations </b> <br/>
@@ -43,17 +43,19 @@ The Simulating Societies satellites addresses this gap by providing the CCS comm
 
 The satellite is specifically tailored to appeal to the diverse CCS audience, aiming to bring together disciplines such as computer science, physics, and the social sciences.
 
-Researchers and practitioners in physics, data science, will learn how LLMs can power simulations that more closely resemble real-world social media environments. 
+Researchers and practitioners in physics and data science, will learn how LLMs can power simulations that more closely resemble real-world social media environments. 
 Social scientists and cognitive researchers can better explore online behavior, bias formation, and group dynamics through these methods.
 
+We aim to:
 1. Collect Emerging Trends in Modeling Social Systems
 2. Promote Methodological Advancements
 3. Present Hybrid Data-Driven/Modeling Case Studies
 
 ##### Important Dates
-<b>Paper submission:</b> TBD <br/>
-<b>Author notification:</b> TBD <br/>
+<b>Abstract submission deadline:</b> April 24, 2025 <br/>
+<b>Author notification:</b> May 10, 2025 <br/>
 
+All dates are AoE.
 ---
 
 <div style="float: none; width: 100%; text-align: center"> 
