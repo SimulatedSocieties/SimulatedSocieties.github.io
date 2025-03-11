@@ -7,7 +7,7 @@ nav: false
 nav_order: 4
 ---
 
-The workshop will be held on **September 1nd, 2025**.
+The workshop will be held on **September 3-4, 2025**.
 
 ---
 

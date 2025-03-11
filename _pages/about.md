@@ -6,12 +6,12 @@ subtitle: <b>From Opinion Dynamic Models to Digital Twins - 1st Edition (2025)</
 
 profile:
   align: right
-  image: simulatedsocietieslogo.jpeg
+  image: simulatedsocietieslogo.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Simulated Societies Satellite</p>
     <p><a href="https://ccs25.cssociety.org/">Conference of Complex Systems (CCS)</a></p>
-    <p>September 1st, 2025</p>
+    <p>September 3-4, 2025</p>
     <p>Siena, Italy</p>
 
 news: false  # includes a list of news items
@@ -54,8 +54,9 @@ We aim to:
 ##### Important Dates
 <b>Abstract submission deadline:</b> April 24, 2025 <br/>
 <b>Author notification:</b> May 10, 2025 <br/>
-
 All dates are AoE.
+
+
 ---
 
 <div style="float: none; width: 100%; text-align: center"> 
