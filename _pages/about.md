@@ -84,10 +84,18 @@ All dates are AoE.
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="https://kdd.isti.cnr.it/people/morini-virginia">
-  <img src="assets/custom_images/morini.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="">
+  <img src="assets/custom_images/abramski.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/morini-virginia"><b>Virginia Morini</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Katherine E. Abramski</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://ericacau.github.io/">
+  <img src="assets/custom_images/erica_cau.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://ericacau.github.io/"><b>Erica Cau</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
 </div>
 
@@ -100,19 +108,35 @@ All dates are AoE.
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
-  <img src="assets/custom_images/pansanella.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
-</div>
-
-<div style="float: left; margin: 10px">
 <a href="https://kdd.isti.cnr.it/people/failla-andrea">
   <img src="assets/custom_images/andrea_failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/failla-andrea"><b>Andrea Failla</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="">
+  <img src="assets/custom_images/mesina.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href=""><b>Veronica Mesina</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://kdd.isti.cnr.it/people/morini-virginia">
+  <img src="assets/custom_images/morini.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/morini-virginia"><b>Virginia Morini</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
+</div>
+
+<div style="float: left; margin: 10px">
+<a href="https://kdd.isti.cnr.it/people/pansanella-valentina">
+  <img src="assets/custom_images/pansanella.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kdd.isti.cnr.it/people/pansanella-valentina"><b>Valentina Pansanella</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
 </div>
 
 </div>
