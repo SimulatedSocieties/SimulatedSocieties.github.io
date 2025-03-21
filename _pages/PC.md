@@ -18,12 +18,9 @@ The committee is responsible for reviewing submissions and providing feedback to
 <ul>
     <li>Dino Pedreschi, University of Pisa, Italy</li>
     <li>Letizia Milli, Università di Pisa, Italy</li>
-    <li>Veronica Mesina, Università di Pisa, Italy</li>
-    <li>Katherine Abramski, Università di Pisa, Italy</li>
     <li>Massimo Stella, Università di Trento, Italy</li>
     <li>Luca Pappalardo, CNR-ISTI, Italy</li>
     <li>Laura Pollacci, Università di Pisa, Italy</li>
-    <li>Erica Cau, Università di Pisa, Italy</li>
 </ul>
 
 ### Join the Program Committee
