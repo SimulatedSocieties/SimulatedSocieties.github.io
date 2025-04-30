@@ -52,8 +52,8 @@ We aim to:
 3. Present Hybrid Data-Driven/Modeling Case Studies
 
 ##### Important Dates
-<b>Abstract submission deadline:</b> April 24, 2025 <br/>
-<b>Author notification:</b> May 10, 2025 <br/>
+<b>Abstract submission deadline:</b> May 15th, 2025 <br/>
+<b>Author notification:</b> May 20, 2025 <br/>
 All dates are AoE.
 
 
