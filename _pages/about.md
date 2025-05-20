@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Simulated Societies Satellite</p>
     <p><a href="https://ccs25.cssociety.org/">Conference of Complex Systems (CCS)</a></p>
-    <p>September 3-4, 2025</p>
+    <p>September 3, 2025</p>
     <p>Siena, Italy</p>
 
 news: false  # includes a list of news items
@@ -52,8 +52,8 @@ We aim to:
 3. Present Hybrid Data-Driven/Modeling Case Studies
 
 ##### Important Dates
-<b>Abstract submission deadline:</b> May 15th, 2025 <br/>
-<b>Author notification:</b> May 20, 2025 <br/>
+<b>Abstract submission deadline:</b> May 30th, 2025 <br/>
+<b>Author notification:</b> June 6th, 2025 <br/>
 All dates are AoE.
 
 
