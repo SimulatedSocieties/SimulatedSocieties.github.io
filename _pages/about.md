@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Simulated Societies Satellite</p>
-    <p><a href="https://ccs25.cssociety.org/">Conference of Complex Systems (CCS)</a></p>
+    <p><a href="https://ccs25.cssociety.org/">Conference on Complex Systems (CCS)</a></p>
     <p>September 3, 2025</p>
     <p>Siena, Italy</p>
 
