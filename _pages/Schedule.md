@@ -7,33 +7,30 @@ nav: false
 nav_order: 4
 ---
 
-The workshop will be held on **September 3, 2025**.
+The workshop will be held on **September 3rd, 2025** in room 14.
 
 ---
 
 ### Schedule
-Time: 2:45PM-6:00PM
 
-Here is a list of accepted contributions in no particular order.
-
-| Authors                                                                                                                                       | Title                                                                                                               |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Darja Cvetković, Sara Major, Slobodan Maletić, Miroslav Anđelković, Ana Vranić, Boris Stupovski, Dušan Vudragović, Aleksandar Bogojević, Marija Mitrović Dankulov and Aleksandar Tomašević | Simulating Toxic Reddit-like Communities with LLM agents using YSocial                                             |
-| Mariko Ito                                                                                                                                   | Who answers and when in collective decision-making and the amplification of correct opinions                       |
-| Daniele Cirulli, Giulio Cimini and Giovanni Palermo                                                                                          | How Large Language Models play humans in online conversations: a simulated study of the 2016 US politics on Reddit |
-| Jacopo Nudo and Mario Edoardo Pandolfo                                                                                                       | Exploring Political Identity and Toxicity in LLM-Driven Social Media Agents                                        |
-| Azza Bouleimen, Giordano De Marzo, Taehee Kim, Silvia Giordano and David Garcia                                                             | Simulation and evaluation of LLM generated online conversations                                                    |
-| Alessandro Bellina, Giordano De Marzo and David Garcia                                                                                       | Conformity in Large Language Models: Experimental Evidence from Visual Tasks                                       |
-| Giacomo Fidone, Lucia Passaro and Riccardo Guidotti                                                                                          | Evaluating Online Moderation Using LLM-Powered Counterfactual Simulations                                          |
-| Şükrü Atsızelti                                                                                                                              | Total Error Framework for LLM-Based Survey Simulations                                                             |
-| Jens Ulrik Hansen, Frederik Henriksen and Eva Mayerhöffer                                                                                   | Assessing the Effects of Cross-cutting Information Sharing on Political Polarization and Echo Chamber Formations on Social Media with Agent-Based Modeling |
-| Gesine Steudle and Malte Vogl                                                                                                                | From Opinion Dynamics to Niche Construction                                                                        |
-| Ruggero Marino Lazzaroni and Joao Pinheiro Neto                                                                                              | Design thoughts on using LLM ABMs to simulate social media platforms                                               |
-
-
+| Time         | Topic               | Paper Title                         | Authors      |
+|--------------|--------------------|-------------------------------------|--------------|
+| 14:45–15:00  | Session Opening    | —                                   | Session Chair |
+| 15:00–15:12  | Toxicity & Moderation | Simulating Toxic Reddit-like Communities | Darja Cvetković, Sara Major, Slobodan Maletić, Miroslav Anđelković, Ana Vranić, Boris Stupovski, Dušan Vudragović, Aleksandar Bogojević, Marija Mitrović Dankulov, Aleksandar Tomašević |
+| 15:12–15:24  | Toxicity & Moderation | Exploring Political Identity and Toxicity | Jacopo Nudo, Mario Edoardo Pandolfo |
+| 15:24–15:36  | Toxicity & Moderation | Evaluating Online Moderation with LLM Simulations | Giacomo Fidone, Lucia Passaro, Riccardo Guidotti |
+| 15:36–15:48  | LLM Behavior & Conversation | Simulation and Evaluation of LLM Conversations | Azza Bouleimen, Giordano De Marzo, Taehee Kim, Silvia Giordano, David Garcia |
+| 15:48–16:00  | LLM Behavior & Conversation | Conformity in LLMs: Visual Tasks | Alessandro Bellina, Giordano De Marzo, David Garcia |
+| 16:15–16:30  | **Break**          | —                                   | —            |
+| 16:30–16:42  | Opinion Dynamics & Decision-Making | Who Answers and When: Decision-Making & Amplification | Mariko Ito |
+| 16:42–16:54  | Opinion Dynamics & Decision-Making | Cross-cutting Information & Polarization | Jens Ulrik Hansen, Frederik Henriksen, Eva Mayerhöffer |
+| 16:54–17:06  | Opinion Dynamics & Decision-Making | From Opinion Dynamics to Niche Construction | Gesine Steudle, Malte Vogl |
+| 17:06–17:18  | Methodology & Frameworks | Total Error Framework for LLM-Based Surveys | Şükrü Atsızelti |
+| 17:18–17:30  | Methodology & Frameworks | LLMs Playing Humans: 2016 US Politics on Reddit | Daniele Cirulli, Giulio Cimini, Giovanni Palermo |
+| 17:30–17:42  | Methodology & Frameworks | Design Thoughts: LLM ABMs for Social Media | Ruggero Marino Lazzaroni, Joao Pinheiro Neto |
+| 17:42–18:00  | Closing Discussion | —                                   | Session Chair |
 
 
-
-All presentations are 10 minutes long, followed by a 5-minute Q&A session.
+All presentations are 12 minutes long, including Q&A.
 {: .alert .alert-info}
 
