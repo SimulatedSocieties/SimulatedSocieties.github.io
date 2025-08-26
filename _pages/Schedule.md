@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Workshop Schedule
 description: Workshop Schedule
-nav: false
+nav: true
 nav_order: 4
 ---
 
