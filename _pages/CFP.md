@@ -8,26 +8,24 @@ nav_order: 2
 ---
 <hr>
 
-## What and How to Submit 
+### What and How to Submit
+Simulated Societies accepts several types of submissions for review, including:
 
-Simulated Societies accepts extended abstracts of at most 2 pages. The second page can only include one figure with caption, and references.
+- *Full papers* (max 15 pages)
+- *Short papers* (max 8 pages)
+- *Extended Abstract* (max 2 pages)
 
+### Submission Guidelines
+Authors are invited to submit original research papers that have not been published elsewhere and are not currently under consideration for another journal, conference, or workshop. Extended abstracts may present work that can be already published, in preparation for publication elsewhere or ongoing research.
 
-#### Submission Guidelines
+Paper submissions (full, short, and abstract) must use the [Springer template](https://www.springernature.com/gp/authors/campaigns/latex-author-support), including bibliography and appendices. Submissions should include the title, author(s), affiliation(s), e-mail address(es), abstract, and postal address(es) on the first page. 
 
-Authors are invited to submit abstracts related to published or unpublished research on simulations of complex social systems.
- 
-Submissions should be at most two page long in PDF format (including references and figures) and should include title, author(s), and affiliation(s). Including at most one figure is recommended but not mandatory.
+The review process follows the guidelines of the [main conference](https://asonam.cpsc.ucalgary.ca/2026/CFP.php). At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity.
+To submit a paper, please use the following web portal.
 
-Abstract submissions must use the <a href="https://www.overleaf.com/read/xgvkzhpqwjqd#858c6d">abstract template</a> of the main conference.
+{% include button.html text="Submit via EasyChair (Not Yet...)" link="" color="danger" %}
 
-All submissions will be reviewed by the Program Committee based on technical quality, relevance to the workshop's scope, originality, significance, and clarity. 
+### Publication
+Workshops proceedings will be published by the main conference. Please check relevant information on the main conference's website.
 
-Accepted abstracts must be presented by one registered author. This presentation must be in-person.
-If no author is registered to the main conference before the deadline, the contribution will be withdrawn from the programme. Further information on how and when to register is available on the main conference's <a href="https://ccs25.cssociety.org/registration/">website</a>.
-
-Submit your contribution through <a href="https://easychair.org/conferences/?conf=simsoc2025">EasyChair</a>.
-{: .alert .alert-info}
-
-## Publication
-Simulated Societies Co-Chairs are open to the possibility of publishing a special issue of a journal for the best submissions of the workshop.
+Simulated Societies co-Chairs are also open to the possibility of publishing a **special issue of a journal** for the best papers of the workshop.
