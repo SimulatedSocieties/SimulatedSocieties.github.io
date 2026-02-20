@@ -2,17 +2,17 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <b>From Opinion Dynamic Models to Digital Twins - 1st Edition (2025)</b>
+subtitle: <b>From Opinion Dynamic Models to Digital Twins - 2nd Edition (2026)</b>
 
 profile:
   align: right
   image: simulatedsocietieslogo.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Simulated Societies Satellite</p>
-    <p><a href="https://ccs25.cssociety.org/">Conference on Complex Systems (CCS)</a></p>
-    <p>September 3, 2025</p>
-    <p>Siena, Italy</p>
+    <p>Simulated Societies Workshop</p>
+    <p><a href="https://asonam.cpsc.ucalgary.ca/2026/">International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a></p>
+    <p>Date TBD</p>
+    <p>Rabat, Morocco</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,7 +26,7 @@ To bridge these gaps, researchers often turn to socio-physics models (e.g., opin
 
 A promising alternative lies in AI-driven social media simulations, particularly those powered by Large Language Models (LLMs). These simulations offer a controlled environment to experiment with variables often hidden in real-world data—such as algorithmic influence and language-based interactions. While they cannot replace empirical studies, they serve as in vitro laboratories, enabling researchers to test hypotheses on social media dynamics in ways traditional methods cannot.
 
-The Simulating Societies satellites addresses this gap by providing the CCS community a space to discuss  modeling and simulations of social media settings, either with opinion dynamic models and/or large language model (LLM)-based agent systems.
+The Simulating Societies satellites addresses this gap by providing the ASONAM community a space to discuss  modeling and simulations of social media settings, either with opinion dynamic models and/or large language model (LLM)-based agent systems.
 
 ##### Topics of interest
 
@@ -41,7 +41,7 @@ The Simulating Societies satellites addresses this gap by providing the CCS comm
 
 ##### Objective
 
-The satellite is specifically tailored to appeal to the diverse CCS audience, aiming to bring together disciplines such as computer science, physics, and the social sciences.
+The satellite is specifically tailored to appeal to the diverse ASONAM audience, aiming to bring together disciplines such as computer science, physics, and the social sciences.
 
 Researchers and practitioners in physics and data science, will learn how LLMs can power simulations that more closely resemble real-world social media environments. 
 Social scientists and cognitive researchers can better explore online behavior, bias formation, and group dynamics through these methods.
@@ -52,8 +52,9 @@ We aim to:
 3. Present Hybrid Data-Driven/Modeling Case Studies
 
 ##### Important Dates
-<b>Abstract submission deadline:</b> May 30th, 2025 <br/>
-<b>Author notification:</b> June 6th, 2025 <br/>
+<b>Abstract submission deadline:</b> June 29th, 2026 <br/>
+<b>Author notification:</b> July 6th, 2026 <br/>
+<b>Camera ready deadline:</b> July 11th, 2026 <br/>
 All dates are AoE.
 
 
@@ -70,10 +71,12 @@ All dates are AoE.
 ---
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
+</div> 
+
+<div style="width: 100%; text-align: center"> 
+<b>Workshop Co-Chairs</b>
 </div>  
 <div style="width: 100%; padding-left: 13%; text-align: center">
-
-
 
 <div style="float: left; margin: 10px">
 <a href="http://giuliorossetti.github.io/">
@@ -139,4 +142,7 @@ All dates are AoE.
   <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
 </div>
 
+</div>
+
+For information about previous editions, including the schedule and organizers, see the [Previous Editions](/previous-editions/) page.
 </div>
