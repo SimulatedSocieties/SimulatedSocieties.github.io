@@ -6,7 +6,7 @@ subtitle: <b>From Opinion Dynamic Models to Digital Twins - 2nd Edition (2026)</
 
 profile:
   align: right
-  image: simulatedsocietieslogo.png
+  image: simulatedsocieties2nd.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Simulated Societies Workshop</p>
@@ -56,6 +56,8 @@ We aim to:
 <b>Author notification:</b> July 6th, 2026 <br/>
 <b>Camera ready deadline:</b> July 11th, 2026 <br/>
 All dates are AoE.
+<br><br>
+For information about previous editions, including the schedule and organizers, see the [Previous Editions](/previous-editions/) page.
 
 
 ---
@@ -69,9 +71,6 @@ All dates are AoE.
 <img src="assets/custom_images/sbdit-head.png" style="width: 700px;">
 </div>
 ---
-<div style="width: 100%; text-align: center"> 
-<b>Workshop Co-Chairs</b>
-</div> 
 
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
@@ -142,7 +141,4 @@ All dates are AoE.
   <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
 </div>
 
-</div>
-
-For information about previous editions, including the schedule and organizers, see the [Previous Editions](/previous-editions/) page.
 </div>
