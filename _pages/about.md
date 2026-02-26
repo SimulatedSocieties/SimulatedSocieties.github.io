@@ -106,7 +106,7 @@ For information about previous editions, including the schedule and organizers, 
   <img src="assets/custom_images/citraro.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="http://pages.di.unipi.it/citraro/"><b>Salvatore Citraro</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>CNR-ISTI</p></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Trento</p></span>
 </div>
 
 <div style="float: left; margin: 10px">

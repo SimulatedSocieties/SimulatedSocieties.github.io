@@ -23,7 +23,8 @@ Paper submissions (full, short, and abstract) must use the [Springer template](h
 The review process follows the guidelines of the [main conference](https://asonam.cpsc.ucalgary.ca/2026/CFP.php). At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity.
 To submit a paper, please use the following web portal.
 
-{% include button.html text="Submit via EasyChair (Not Yet...)" link="" color="danger" %}
+Submit your contribution through <a href="https://easychair.org/">EasyChair (not yet...)</a>.
+{: .alert .alert-info}
 
 ### Publication
 Workshops proceedings will be published by the main conference. Please check relevant information on the main conference's website.
