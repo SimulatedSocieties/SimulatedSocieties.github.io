@@ -23,8 +23,7 @@ Paper submissions (full, short, and abstract) must use the [Springer template](h
 The review process follows the guidelines of the [main conference](https://asonam.cpsc.ucalgary.ca/2026/CFP.php). At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity.
 To submit a paper, please use the following web portal.
 
-Submit your contribution through <a href="https://easychair.org/conferences/?conf=simulatedsocieties20 mi sono accorta di errore sul sito
-il link per la submission è questo">EasyChair</a>.
+Submit your contribution through <a href="https://easychair.org/conferences/?conf=simulatedsocieties20">EasyChair</a>.
 {: .alert .alert-info}
 
 ### Publication
